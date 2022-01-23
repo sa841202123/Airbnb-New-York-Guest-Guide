@@ -8,12 +8,12 @@
   - Note: The service might be shut down in the future, and the link might become invalid. However, you can still see the website by running the R code.
 
 - Reference
- - [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
- - [Accommodations](http://www.simplysaratravel.com/home/airbnb)
- - [Airbnb Community Center](https://community.withairbnb.com/t5/Help/Guests-seeing-different-prices/td-p/125396)
- - [Dynamic Plot Code Reference](https://gist.github.com/wch/5436415/) (Author: wch)
- - [Shiny-App](https://github.com/gl2668/airbnb_priceR)  (Author: gl2668)
- - [RPubs NYC Maps](https://rpubs.com/jhofman/nycmaps) (Author: Jake Hofman)
- - [United State Icon Pack](https://www.flaticon.com/packs/united-states-4)
- - [Free Vector](https://www.freepik.com/popular-vectors)
- - 
+  - [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
+  - [Accommodations](http://www.simplysaratravel.com/home/airbnb)
+  - [Airbnb Community Center](https://community.withairbnb.com/t5/Help/Guests-seeing-different-prices/td-p/125396)
+  - [Dynamic Plot Code Reference](https://gist.github.com/wch/5436415/) (Author: wch)
+  - [Shiny-App](https://github.com/gl2668/airbnb_priceR)  (Author: gl2668)
+  - [RPubs NYC Maps](https://rpubs.com/jhofman/nycmaps) (Author: Jake Hofman)
+  - [United State Icon Pack](https://www.flaticon.com/packs/united-states-4)
+  - [Free Vector](https://www.freepik.com/popular-vectors)
+
