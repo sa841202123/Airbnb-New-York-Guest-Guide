@@ -10,7 +10,7 @@
 - Reference
  - [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
  - [Accommodations](http://www.simplysaratravel.com/home/airbnb)
- - [Airbnb Community Center](Guests seeing different prices - Airbnb Community (withairbnb.com)
+ - [Airbnb Community Center](https://community.withairbnb.com/t5/Help/Guests-seeing-different-prices/td-p/125396)
  - [Dynamic Plot Code Reference](https://gist.github.com/wch/5436415/) (Author: wch)
  - [Shiny-App](https://github.com/gl2668/airbnb_priceR)  (Author: gl2668)
  - [RPubs NYC Maps](https://rpubs.com/jhofman/nycmaps) (Author: Jake Hofman)
